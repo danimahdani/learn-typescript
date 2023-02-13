@@ -11,3 +11,7 @@ function printAku() {
     console.log('tampilkan diriku');
 }
 printAku();
+const Kalkulator = (no1, no2) => {
+    return no1 + no2;
+};
+console.log(Kalkulator(10, 20));
