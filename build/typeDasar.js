@@ -26,3 +26,8 @@ arrayAny = ["asd", "qwe", "zxc", 123, true, false];
 let biodata;
 biodata = ["Palemabang", 123];
 console.log(biodata);
+//union type
+let number;
+number = "123";
+number = 123;
+// number = true;

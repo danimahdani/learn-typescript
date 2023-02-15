@@ -47,3 +47,10 @@ arrayAny = ["asd","qwe","zxc", 123, true, false]
 let biodata: [string, number];
 biodata = ["Palemabang", 123]
 console.log(biodata)
+
+
+//union type
+let number: number | string;
+number = "123"
+number = 123;
+// number = true;
